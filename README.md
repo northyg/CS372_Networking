@@ -1,6 +1,6 @@
 Giselle Northy
-CS372 Networking Fall 2020
-Project 1 Sockets and HTTP
+* CS372 Networking Fall 2020
+* Project 1 Sockets and HTTP
 
 Introduction:
 
@@ -10,15 +10,18 @@ anticipate it would run with other versions of Python3. This project was written
 machine, and ran the local server on a Firefox browser.
 
 Instructions:
+
 1. Run the program by using Python version 3.7 and the following file name in a CLI.
 Output will be visible in the CLI:
-  a. Part 1 connect_socket_proj1_part_1.py
-  b. Part 2 large_file_proj1_part_2.py
-  c. Part 3 http_server_project1_part_3.py
-    i. Connect to local host at 127.0.0.1:1025 on your web browser
-    ii. May need to refresh Browser window, then view output in CLI
+  
+  * 1a. Part 1 connect_socket_proj1_part_1.py
+  * 1b. Part 2 large_file_proj1_part_2.py
+  * 1c. Part 3 http_server_project1_part_3.py
+    * i. Connect to local host at 127.0.0.1:1025 on your web browser
+    * ii. May need to refresh Browser window, then view output in CLI
+    
 2. Example of the run command in a Windows terminal:
-  a. py -3.7 connect_socket_proj1_part_1.py
+  * 2a. py -3.7 connect_socket_proj1_part_1.py
  
  Sources:
   1. Computer Networking - A Top-Down Approach, Kurose and Ross, 7th Edition
